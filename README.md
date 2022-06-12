@@ -24,15 +24,16 @@ Hi, I'm Paul Chibuike Igweze, An Experienced Software Engineer 🚀 from Nigeria
 
 **Languages and Tools I have worked with in the past:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="VueJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" alt="Golang" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
+<code><img height="20" alt="php" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"></code>
+<code><img height="20" alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></code>
+<code><img height="20" alt="Bootstrap" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+<code><img height="20" alt="mongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
 
 
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=chibuikeIg&show_icons=true&hide_border=true)
