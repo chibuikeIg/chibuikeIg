@@ -1,10 +1,10 @@
 ### Hey 👋🏽, I'm Paul
 
 <a href="https://twitter.com/porhIg">
-  <img align="left" alt="Paul Igweze | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Paul Igweze | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/paul-igweze/">
-  <img align="left" alt="Paul Igweze's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Paul Igweze's LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
 </a>
 <br />
 <br />
