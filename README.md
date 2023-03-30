@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Paul Chibuike Igweze, An Experienced Software Engineer 🚀 from Nigeria with 4 years of experience in software development. I write quality code and fully understand the craft of software development. I'm interested in solving problems and offering values to people through software development. Currently, I'm Freelancing and building awesome startup projects/products on the side. Beside's programming or coding, I enjoy traveling a lot.
+Hi, I'm Paul Chibuike Igweze, An Experienced Software Engineer 🚀 from Nigeria with 5+ years of experience in software development. I write quality code and fully understand the craft of software development. I'm interested in solving problems and offering values to people through software development. Currently, I'm Freelancing and building awesome startup projects/products on the side. Beside's programming or coding, I enjoy traveling a lot.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
