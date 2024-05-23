@@ -9,15 +9,15 @@
 <br />
 <br />
 
-Hi, I'm Paul Chibuike Igweze, An Experienced Software Engineer 🚀 from Nigeria with 5+ years of experience in software development. I write quality code and fully understand the craft of software development. I'm interested in solving problems and offering values to people through software development. Currently, I'm Freelancing and building awesome startup projects/products on the side. Beside's programming or coding, I enjoy traveling a lot.
+Hi, I'm Paul Chibuike Igweze, An Experienced Software Engineer 🚀 from Nigeria with 5+ years of experience in software development. I write quality code and fully understand the craft of software development. I'm interested in solving problems and offering values to people through software development. Currently, I'm Freelancing and building awesome startup projects/products on the side. Besides programming or coding, I enjoy traveling a lot.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on myself (my soft and technical skills) to be more efficient in providing values at my organization/company;
-- 🌱 I’m currently learning Golang and Cloud Computing On AWS; 
-- 👯 I’m looking to collaborate/work with any team on the fintech/e-commerce industry but I am also open to any opportunities that will provide me with challenging projects I can contribute to and learn from🤝;
+- 👨🏽‍💻 I’m currently working on myself (my soft and technical skills) to be more efficient in providing value at my organization/company;
+- 🌱 I’m currently working with Golang and Cloud Computing On AWS; 
+- 👯 I’m looking to collaborate/work with any team in the fintech/e-commerce industry but I am also open to any opportunities that will provide me with challenging projects I can contribute to and learn from🤝;
 - 🤔 I’m looking for help with recommendations/endorsements😭;
 - 💬 Ask me about anything in my area of specialty, I am happy to help and tell my story;
 - 📫 You can reach me through my email: paulchibuikeigweze@gmail.com;
